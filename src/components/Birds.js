@@ -1,19 +1,9 @@
 import React from 'react'
 
-const birds = ["seagull", "hummingbird", "blackbird", "parakeet"]
-
-const Birds = () => {
+const Bird = (props) => {
     return (
-        <div class="birds">
-            <ul>
-                { 
-                    birds.map(
-                        <li>{bird}</li>
-                    ) 
-                }
-            </ul>
-        </div>
+        <ul><li>{props.bird}</li></ul>
     )
 }
 
-export default Birds
+export default Bird
