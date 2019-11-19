@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_oppgavesett3/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react_oppgavesett3/static/js/main.e6b5f130.chunk.js",
+    "main.js.map": "/react_oppgavesett3/static/js/main.e6b5f130.chunk.js.map",
+    "runtime-main.js": "/react_oppgavesett3/static/js/runtime-main.e1db7fdc.js",
+    "runtime-main.js.map": "/react_oppgavesett3/static/js/runtime-main.e1db7fdc.js.map",
+    "static/js/2.41dab7da.chunk.js": "/react_oppgavesett3/static/js/2.41dab7da.chunk.js",
+    "static/js/2.41dab7da.chunk.js.map": "/react_oppgavesett3/static/js/2.41dab7da.chunk.js.map",
+    "index.html": "/react_oppgavesett3/index.html",
+    "precache-manifest.404e886387ce5c3e80157f7aa5a6aafa.js": "/react_oppgavesett3/precache-manifest.404e886387ce5c3e80157f7aa5a6aafa.js",
+    "service-worker.js": "/react_oppgavesett3/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react_oppgavesett3/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1db7fdc.js",
+    "static/js/2.41dab7da.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e6b5f130.chunk.js"
+  ]
+}
