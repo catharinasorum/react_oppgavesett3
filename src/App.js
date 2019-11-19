@@ -18,7 +18,10 @@ const  App = () => {
   return (
     <div className="App">    
       <Oppmuntring navn="Rick Astley" emne="Kunsten å synge rent" />
+      
+      <h2>Birds</h2>
       {birds.map(bird => <Birds bird={bird}/>)}
+      
       <h2>Norrøne guder</h2>
       {guder.map(gud => <Gud navn={gud.navn} besk={gud.besk}/>)}
     </div>
